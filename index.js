@@ -1,3 +1,6 @@
+// console.log(); bu kardeş yaptığın şeyi çalıştırıyür
+
+
 // console.log("hello world")
 // String - STRİNG - str - Str
 // let hello = "selam";
