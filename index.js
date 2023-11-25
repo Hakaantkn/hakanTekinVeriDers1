@@ -23,3 +23,6 @@
 // toUppercase(): cano bu gelen yazıyı büyük harfe çevirir
 // toLowercase(): buda büyük yazıyı küçük harfe çevirir
 
+// let text1 = "hello world!".toLowerCase();
+// console.log(text1)
+// bu şekilde yanına yazarakta çalıştırabilirsin
