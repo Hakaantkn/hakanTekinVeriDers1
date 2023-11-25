@@ -39,3 +39,8 @@
 // const sayi2 = 20;
 // let yerine const kullanırsan daha hızlı olarmış genel olarak
 // console.log(sayi1 + sayi2);
+
+// const sayi1 = 12.2;
+// const sayi2 = 10.2;
+// console.log(sayi1 + sayi2);
+// bu da float lı işlem
