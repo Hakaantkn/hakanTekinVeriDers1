@@ -49,3 +49,19 @@
 // let soyisim = "Tekin";
 // let yas = 18;
 // console.log("merhaba" , isim , soyisim , "sen" , yas.toString(), "yaşındasın");
+
+
+const isim = "Hakan"
+const soyisim = "Tekin"
+const not1 = 48
+const not2 = 44
+const not3 = 60
+
+const toplam = not1 + not2 + not3 ;  
+const gecerlinot = toplam / 3; 
+
+if(gecerlinot >= 50){
+    console.log(`Merhaba ${isim} ${soyisim} not ortalamanız ${gecerlinot} dersten geçtiniz (geçme notu = 50)`)
+}else{
+    console.log(`Merhaba ${isim} ${soyisim} not ortalamanız ${gecerlinot} dersten kaldınız (geçme notu = 50)`)
+}
