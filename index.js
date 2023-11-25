@@ -21,6 +21,5 @@
 // replace seçtiğin kelimeyi yazdığınla değiştiriyo
 
 // toUppercase(): cano bu gelen yazıyı büyük harfe çevirir
-// toLowetcase(): buda büyük yazıyı küçük harfe çevirir
-
+// toLowercase(): buda büyük yazıyı küçük harfe çevirir
 
