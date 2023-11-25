@@ -35,3 +35,7 @@
 // console.log(lowertext);
 // local lower veya upper yapıp tr dersen türkçe karakteri koruyo
 
+// const sayi1 = 10;
+// const sayi2 = 20;
+// let yerine const kullanırsan daha hızlı olarmış genel olarak
+// console.log(sayi1 + sayi2);
