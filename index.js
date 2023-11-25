@@ -44,3 +44,8 @@
 // const sayi2 = 10.2;
 // console.log(sayi1 + sayi2);
 // bu da float lı işlem
+
+// let isim = "Hakan";
+// let soyisim = "Tekin";
+// let yas = "18";
+// console.log("merhaba" , isim , soyisim , "sen" , yas , "yaşındasın")
