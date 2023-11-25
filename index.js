@@ -15,6 +15,12 @@
 // console.log(part)
 // brocan slice de seçtiği rakama oturan yeri çıkarıyo
 
-let text = "please visit microsoft";
-let newtext = text.replace("microsoft", "w3schoold");
-console.log(newtext)
+// let text = "please visit microsoft";
+// let newtext = text.replace("microsoft", "w3schoold");
+// console.log(newtext)
+// replace seçtiğin kelimeyi yazdığınla değiştiriyo
+
+// toUppercase(): cano bu gelen yazıyı büyük harfe çevirir
+// toLowetcase(): buda büyük yazıyı küçük harfe çevirir
+
+
