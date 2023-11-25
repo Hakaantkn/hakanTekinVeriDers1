@@ -8,7 +8,13 @@
 // let text = "hakan";
 // let length = text.length;   
 // console.log(length)
+// yazdığın kelimenin kaç harfli oldunu yazıyo
 
 // let text = "Apple, Banana, Kiwi";
 // let part = text.slice(7);
 // console.log(part)
+// brocan slice de seçtiği rakama oturan yeri çıkarıyo
+
+let text = "please visit microsoft";
+let newtext = text.replace("microsoft", "w3schoold");
+console.log(newtext)
