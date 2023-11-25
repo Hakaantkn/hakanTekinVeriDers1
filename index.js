@@ -24,5 +24,11 @@
 // toLowercase(): buda büyük yazıyı küçük harfe çevirir
 
 // let text1 = "hello world!".toLowerCase();
-// console.log(text1)
+// console.log(text1);
 // bu şekilde yanına yazarakta çalıştırabilirsin
+
+// let text = "II";
+// let lowertext = text.toLocaleLowerCase("tr");
+// console.log(lowertext);
+// local lower veya upper yapıp tr dersen türkçe karakteri koruyo
+
