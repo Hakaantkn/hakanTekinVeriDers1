@@ -48,4 +48,4 @@
 // let isim = "Hakan";
 // let soyisim = "Tekin";
 // let yas = "18";
-// console.log("merhaba" , isim , soyisim , "sen" , yas , "yaşındasın")
+// console.log("merhaba" , isim , soyisim , "sen" , yas , "yaşındasın");
