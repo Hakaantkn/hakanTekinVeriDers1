@@ -24,11 +24,11 @@
 //     }
 // }
 
-let meyveler = ['elma', 'armut', 'kivi', 'muz', 'çilek']
+// let meyveler = ['elma', 'armut', 'kivi', 'muz', 'çilek']
 // for(let i = 0; i < meyveler.length; i++){
 //     console.log(meyveler[i]);
 // }  
 
-for ( const meyve of ['elma', 'armut', 'kivi', 'muz', 'çilek']){
-    console.log(meyve);
-}
+// for ( const meyve of ['elma', 'armut', 'kivi', 'muz', 'çilek']){
+//     console.log(meyve);
+// }
