@@ -32,3 +32,18 @@
 // for ( const meyve of ['elma', 'armut', 'kivi', 'muz', 'çilek']){
 //     console.log(meyve);
 // }
+
+
+// let arabalar = ['tofAŞK', 'mercedes', 'bmw', 'nissan', 'volvo', 'audi', 'lexus', 'WW', 'mazda']
+// for (const arabalar of ['tofAŞK', 'mercedes', 'bmw', 'nissan', 'volvo', 'audi', 'lexus', 'WW', 'mazda'] ){
+//     console.log(arabalar);
+//     if(arabalar == 'nissan') break;
+// }
+
+// let arabalar = ['tofAŞK', 'mercedes', 'bmw', 'nissan', 'volvo', 'audi', 'lexus', 'WW', 'mazda']
+// for(let i = 0; < arabalar.length; i++){
+//     console.log(arabalar[i]);
+//     if(arabalar[i] == "nissan"){
+//         break;
+//     }
+// }
