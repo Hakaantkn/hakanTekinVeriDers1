@@ -53,9 +53,9 @@
 
 const isim = "Hakan"
 const soyisim = "Tekin"
-const not1 = 48
+const not1 = 47
 const not2 = 44
-const not3 = 60
+const not3 = 59
 
 const toplam = not1 + not2 + not3 ;  
 const gecerlinot = toplam / 3; 
