@@ -29,6 +29,6 @@ let meyveler = ['elma', 'armut', 'kivi', 'muz', 'çilek']
 //     console.log(meyveler[i]);
 // }  
 
-for ( const meyve of meyveler){
+for ( const meyve of ['elma', 'armut', 'kivi', 'muz', 'çilek']){
     console.log(meyve);
 }
