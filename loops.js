@@ -24,7 +24,7 @@
 //     }
 // }
 
-
-for(let i = 0; i < 50; i++){
-    console.log(i);
+let meyveler = ['elme', 'armut', 'kivi', 'muz', 'çilek']
+for(let i = 0; i < meyveler.length; i++){
+    console.log(meyveler[i]);
 }
