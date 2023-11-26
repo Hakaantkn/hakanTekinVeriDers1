@@ -24,7 +24,11 @@
 //     }
 // }
 
-let meyveler = ['elme', 'armut', 'kivi', 'muz', 'çilek']
-for(let i = 0; i < meyveler.length; i++){
-    console.log(meyveler[i]);
+let meyveler = ['elma', 'armut', 'kivi', 'muz', 'çilek']
+// for(let i = 0; i < meyveler.length; i++){
+//     console.log(meyveler[i]);
+// }  
+
+for ( const meyve of meyveler){
+    console.log(meyve);
 }
