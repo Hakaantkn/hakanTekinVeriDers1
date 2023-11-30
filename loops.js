@@ -47,3 +47,11 @@
 //         break;
 //     }
 // }
+
+
+// let isim = "utku"
+// let sayac = 0;
+// while(sayac < 5000){
+//     console.log(`ananı sikeyim ${isim}`);
+//     sayac++
+// }
